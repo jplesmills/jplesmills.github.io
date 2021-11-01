@@ -1,0 +1,12 @@
+{
+  "errors": {
+    "fallback": "An error has occured"
+  },
+  "cast": {
+    "TITLES": {
+      "CASTING_OPTIONS": "CASTING OPTIONS",
+      "AIRPLAY": "Cast with Airplay",
+      "GOOGLE_CAST": "Cast with Chromecast"
+    }
+  }
+}
